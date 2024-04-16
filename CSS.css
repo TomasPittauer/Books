@@ -1,0 +1,13 @@
+.pole{
+display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    background-color: #fcfca9;
+    border: 1px solid black;
+    gap: 20px;
+}
